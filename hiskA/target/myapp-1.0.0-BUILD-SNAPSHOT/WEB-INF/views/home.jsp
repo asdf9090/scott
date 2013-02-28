@@ -6,8 +6,7 @@
 </head>
 <body>
 <h1>
-	안녕하세요 뿌잉뿌잉
-	push테스트
+	<img alt="" src="http://asdf909024.cafe24.com/Struts2Board/upload/guest/undefined.jpg" width="1000px">
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
