@@ -6,9 +6,7 @@
 </head>
 <body>
 <h1>
-	안녕하세요 변경변경
-	뿌잉뿌잉뿌잉뿌잉뿌잉
-	ddddddddddddddd
+	<img alt="훼어" src="http://asdf909024.cafe24.com/Struts2Board/upload/guest/undefined.jpg" width="1000px">
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
